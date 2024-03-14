@@ -1,9 +1,1 @@
-print("Radha")
-print("full stack")
-print("Anirudha")
-print("Punam")
-print("Krishna Nanda")
-print("sakshi")
-print("Vaishnav")
-print("Ishika")
-print("Sadhana")
+
