@@ -1,3 +1,3 @@
 print("Radha")
-x=07
+x=10001
 print(x)
